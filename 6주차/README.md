@@ -38,4 +38,3 @@
 
 ### 수정후 이미지
 <img width="467" alt="image" src="https://user-images.githubusercontent.com/93762014/196650115-144680c1-a1aa-40ff-8212-0d67dfb43468.png">
-
