@@ -45,4 +45,4 @@
      <a class = "button" href="https://mysite.com" target="_blank">mysite.com</a>
      <a class = "button" href="https://mysite2.com" target="_blank">mysite2.com</a>
      ```
-> github.io와 netlify 배포주소 / 
+> github.io와 netlify 배포주소 / [sukkkuuuu.github.io](https://sukkkuuuu.github.io/GamePrograming/) & [netlify](https://scintillating-starlight-d80fda.netlify.app)
