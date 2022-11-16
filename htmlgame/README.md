@@ -1,6 +1,6 @@
-# html game 2048
+# htmlgame 수정 해보았습니다
 
-> html 코드
+> 2048 html 코드
 
 ```html
 <!DOCTYPE html>
